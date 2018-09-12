@@ -1,0 +1,1 @@
+GCC_80 is a time delay data set with a sound source distance of 80 cm and the collection environment is an anechoic chamber environment. n80_GCC is a normal room environment. Because the experimental data is too large, only the delay data set is submitted. The original audio data and the original data set will be uploaded later.
